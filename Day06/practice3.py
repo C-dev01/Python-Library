@@ -12,4 +12,4 @@ i  = 1
 while(i<=10):
     print(num,"X",i,"=",num*i)
     i = i+1
-print("Table of ",num,"is done.")    
+print("Table of ",num,"is done.")   
