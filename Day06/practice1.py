@@ -18,21 +18,21 @@
 #    * * * * *
 
 
-# 1
+## 1
 num = 1
 while num <= 10:
     print(num)
     num = num+1
 print("Question 1 completed!")    
 
-# 2
+## 2
 num = 10
 while num >= 1:
     print(num)
     num = num-1
 print("Question 2 completed!")
 
-# 3
+## 3
 num = 1
 while num <= 50:
     if num % 2 == 0:
@@ -40,18 +40,17 @@ while num <= 50:
     num = num+1
 print("Question 3 completed!")  
 
-# 4
+## 4
 i = 0
 total = 0
 
 while i <= 5:
     total = total + i
     i = i+1
-print("Sum of first ", i,"natural numbers:",total)    
-    
+print("Sum of first ", i,"natural numbers:",total)        
 print("Question 4 completed!")
 
-# 5
+## 5
 rows = 5
 i = 1
 while i <= rows:
@@ -61,6 +60,9 @@ while i <= rows:
         j = j+1 
     print(" ")
     i = i+1   
+    
+print("Question 4 completed!")
+print("We have successfully done our practice sheet!")
 
 
 
