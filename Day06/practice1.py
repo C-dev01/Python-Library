@@ -60,9 +60,18 @@ while i <= rows:
         j = j+1 
     print(" ")
     i = i+1   
-    
+
+
+## 5(Alternative)
+n = 1
+while(n<=5):
+    print("* " *n)
+    n = n+1
+
 print("Question 4 completed!")
 print("We have successfully done our practice sheet!")
+
+
 
 
 
