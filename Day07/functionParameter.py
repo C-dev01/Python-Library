@@ -8,3 +8,4 @@ def average(a,b):
 average(50,90)
 average(7,90)
 average() # error
+ 
