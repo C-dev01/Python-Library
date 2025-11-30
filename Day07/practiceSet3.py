@@ -8,7 +8,7 @@ show_age("Chanchal Sharma", 19)
 
 # Create a function add_numbers(a, b) that prints both the sum and
 # difference.
-
+ 
 def add_numbers(a, b):
     sum = a + b
     print("Sum is: ",sum)
