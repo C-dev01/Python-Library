@@ -3,7 +3,7 @@
 expenses = [] # list of all expenses in form of dictionary
 print("Welcome to Expense Tracker 💸")
 
-while True:
+while True: 
     print("====MENU====")
     print("1. Add Expense")
     print("2. View All Expenses")
