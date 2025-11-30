@@ -6,7 +6,7 @@
 def display_python():
     print("Python is Fun!")
 
-display_python()
+display_python() 
 
 ## 2
 def learn():
