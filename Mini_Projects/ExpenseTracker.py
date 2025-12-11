@@ -8,7 +8,7 @@ while True:
     print("1. Add Expense")
     print("2. View All Expenses")
     print("3. View Total Expense")
-    print("4. Exit")
+    print("4. Exit") 
 
     choice = int(input("Please Enter Your Choice : "))
 
