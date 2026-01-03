@@ -1,5 +1,5 @@
 # Expense Tracker
-
+ 
 expenses = [] # list of all expenses in form of dictionary
 print("Welcome to Expense Tracker 💸")
 
